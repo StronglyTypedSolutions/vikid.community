@@ -139,7 +139,7 @@ export const en = {
   consent_agree_telemetry_cookies: "Accept analytics cookies?",
 
   gdpr_not_yet_automated: `⚠️ This is not yet automated`,
-  gdpr_send_email: (username: string) => `📧 Please send an email to gdpr@vikid.net,\nmentioning your username '${username}'`,
+  gdpr_send_email: (username: string) => `📧 Please send an email to gdpr@vikid.be,\nmentioning your username '${username}'`,
 
   login_header: "Sign-in",
   login_header_password: "Password?",

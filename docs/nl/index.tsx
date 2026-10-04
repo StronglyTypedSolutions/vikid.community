@@ -139,7 +139,7 @@ export const nl: Translations = {
   consent_agree_telemetry_cookies: "Aanvaard analytische cookies?",
 
   gdpr_not_yet_automated: `⚠️ Dit is nog niet geautomatiseerd.`,
-  gdpr_send_email: (username: string) => `📧 Gelieve een e-mail te sturen naar gdpr@vikid.net,\nmet vermelding van je gebruikersnaam '${username}'.`,
+  gdpr_send_email: (username: string) => `📧 Gelieve een e-mail te sturen naar gdpr@vikid.be,\nmet vermelding van je gebruikersnaam '${username}'.`,
 
   login_header: "Meld je aan",
   login_header_password: "Paswoord?",
